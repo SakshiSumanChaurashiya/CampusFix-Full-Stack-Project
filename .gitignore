@@ -1,0 +1,5 @@
+nano .gitignore
+node_modules/
+.env
+backend/data/*.sqlite
+.DS_Store
